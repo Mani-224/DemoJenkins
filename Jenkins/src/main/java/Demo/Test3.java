@@ -8,6 +8,7 @@ public class Test3 {
 	@Test
 	public void m5()
 	{
+		//Hello
 		System.out.println("Hello ji");
 	}
 
